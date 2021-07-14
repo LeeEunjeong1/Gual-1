@@ -9,6 +9,7 @@ class KakaoApplication : Application() {
     override fun onCreate() {
         super.onCreate()
         // 다른 초기화 코드들
+        //hi 나는 은정이다
 
         // Kakako SDK 초기화
         KakaoSdk.init(this, "1c7f38ab5c70002127addff2544b6017")
