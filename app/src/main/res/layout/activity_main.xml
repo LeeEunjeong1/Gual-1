@@ -33,7 +33,7 @@
         android:layout_marginVertical="8dp"
         android:src="@drawable/kakao_login_large_narrow"
         android:visibility="gone"
-        />
+ />
 
 
     <Button
